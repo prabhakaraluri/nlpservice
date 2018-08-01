@@ -1,0 +1,9 @@
+com\mynlp\MyNLPController.class
+com\mynlp\TestClass.class
+com\mynlp\service\MyTokenizer.class
+com\mynlp\util\NLPConstants.class
+com\mynlp\service\MySentenceDetector.class
+com\mynlp\service\MyPersonNameFinder.class
+com\mynlp\Application.class
+com\mynlp\BaseOutput.class
+com\mynlp\service\MyPOSTagger.class
